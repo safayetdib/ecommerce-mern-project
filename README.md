@@ -2,12 +2,14 @@
 
 ## Basic Setup
 
-1. Plan
-2. Environment setup
-3. Create express server
+1. Environment setup
+2. Create express server
 
-- npm init -y
-- npm i express
+```
+npm init -y
+npm i express
+```
+
 - create src/server.js
 
-5. nodemon and morgan package
+3. nodemon and morgan package
